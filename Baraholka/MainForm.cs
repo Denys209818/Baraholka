@@ -17,7 +17,7 @@ namespace Baraholka
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-           
+            MessageBox.Show("Hello World");
         }
     }
 }
