@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\teamProject\\Baraholka\\Baraholka.csproj": {}
+    "C:\\Users\\Denis\\Source\\Repos\\Baraholka\\Baraholka\\Baraholka.csproj": {}
   },
   "projects": {
-    "D:\\teamProject\\Baraholka\\Baraholka.csproj": {
+    "C:\\Users\\Denis\\Source\\Repos\\Baraholka\\Baraholka\\Baraholka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\teamProject\\Baraholka\\Baraholka.csproj",
+        "projectUniqueName": "C:\\Users\\Denis\\Source\\Repos\\Baraholka\\Baraholka\\Baraholka.csproj",
         "projectName": "Baraholka",
-        "projectPath": "D:\\teamProject\\Baraholka\\Baraholka.csproj",
+        "projectPath": "C:\\Users\\Denis\\Source\\Repos\\Baraholka\\Baraholka\\Baraholka.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "D:\\teamProject\\Baraholka\\obj\\",
+        "outputPath": "C:\\Users\\Denis\\Source\\Repos\\Baraholka\\Baraholka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
