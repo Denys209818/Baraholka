@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\Baraholka\\Baraholka\\Baraholka.csproj",
+      "projectUniqueName": "D:\\teamProject\\Baraholka\\Baraholka.csproj",
       "projectName": "Baraholka",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\Baraholka\\Baraholka\\Baraholka.csproj",
+      "projectPath": "D:\\teamProject\\Baraholka\\Baraholka.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\Baraholka\\Baraholka\\obj\\",
+      "outputPath": "D:\\teamProject\\Baraholka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
